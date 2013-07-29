@@ -1,5 +1,5 @@
-rewardStyle Shim Repository for Ember.js
-============
+Shim Repository for Ember.js
+----------------
 
 Used by rewardStyle to control the specific version of ember.js used within internal applications.
 
