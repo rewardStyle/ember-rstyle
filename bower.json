@@ -1,0 +1,11 @@
+{
+    "name": "ember-rstyle",
+    "version": "1.0.0-rc.6",
+    "main": [
+        "./ember.js"
+    ],
+    "dependencies": {
+        "jquery": "1.10.2",
+        "handlebars": "1.0.0"
+    }
+}
