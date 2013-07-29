@@ -1,4 +1,9 @@
-ember-rstyle
+rewardStyle Shim Repository for Ember.js
 ============
 
-Shim repository for the Ember Application Framework  https://github.com/emberjs/ember.js.  Used by rewardStyle to control the specific version of ember.js used within internal applications. 
+Used by rewardStyle to control the specific version of ember.js used within internal applications.
+
+Package Managers
+----------------
+
+* [Bower](http://bower.io): `ember-rstyle`
